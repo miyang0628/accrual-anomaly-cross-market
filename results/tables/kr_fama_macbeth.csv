@@ -1,0 +1,5 @@
+spec,var,coef_pct,t,months
+Univariate,TACC,1.9858,2.22,66
+Multivariate,TACC,2.2517,2.51,66
+Multivariate,Size(lnAT),-0.0087,-0.06,66
+Multivariate,GP/A,-0.0669,-0.59,66

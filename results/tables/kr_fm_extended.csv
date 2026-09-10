@@ -1,0 +1,6 @@
+spec,TACC_coef_pct,TACC_t,months
+(1) TACC only,1.9858,2.22,66
+"(2) +size,GP/A",2.2517,2.51,66
+(3) +momentum,2.2976,2.62,66
+(4) +ST reversal,2.122,2.54,66
+(5) +volatility,1.7053,1.96,66
